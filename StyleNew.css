@@ -1,0 +1,80 @@
+body{
+background-color: black;
+margin: 0px;
+padding: 0px;
+}
+
+h1{
+color: white;
+font-size: 30px;	
+}
+
+h3{
+color: #d3d3d3;
+font-size: 15px;
+}
+
+.affix-sidebar
+{
+background-color: black;
+border-color: #efefef;
+}
+
+.slide-animate-container
+{
+background-color: black;
+border-color: none;
+}
+
+.tab-content
+{
+border-color:white;
+}
+
+.table
+{
+width: 100%;
+border-color: none;
+}
+
+.tabset
+{
+border-style: solid;	
+border-color: black;
+color: white;
+font-weight: 2px;
+}
+
+.btn-info
+{
+background-color: #8065E8;
+margin: 0px;
+padding: 0px;	
+}
+
+.btn-info:active,.btn-info.active,.btn-info.disabled,
+.btn-info[disabled]
+{
+ color: #605C64;
+ text-decoration: none;
+ background-position: 0 -15px;
+ -webkit-transition:background-position 0.1s linear;
+ -moz-transition:background-position 0.1s linear;
+ -o-transition:background-position 0.1s linear;
+ transition:background-position 0.1s linear;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

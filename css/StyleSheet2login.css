@@ -1,0 +1,43 @@
+﻿body{
+	background-color: black;
+}
+
+input{
+	width: 75%;
+}
+
+.btn-primary{
+	background-color:#9ECA3B;
+	border-color:#9ECA3B;
+}
+
+.btn-default:hover{
+	color:#333;
+	background-color:#ccc;
+	border-color:#adadad
+}
+
+.panel-default{
+	background-color: rgba(51, 51, 51, 0.8);
+}
+
+.panel-heading {
+    padding: 5px 15px;
+}
+
+.panel-footer {
+	padding: 1px 15px;
+	color: #A0A0A0;
+}
+
+.profile-img {
+	width: 360px;
+	height: 94px;
+	margin: 0 auto 10px;
+	display: block;
+	/*
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	*/
+}
